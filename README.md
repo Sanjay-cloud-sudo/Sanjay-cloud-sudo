@@ -8,8 +8,9 @@
   </a>
 </p>
 
+<!-- Swapped to a highly reliable Hits view counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-cloud-sudo&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSanjay-cloud-sudo&count_bg=%2300F0FF&title_bg=%23000000&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views" />
 </div>
 <br>
 
@@ -36,7 +37,7 @@ int main() {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-y-59a7b9434?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&borderColor=00F0FF" alt="LinkedIn Badge"/>
   </a>
 </p>
 
