@@ -1,49 +1,58 @@
-<!-- Waving Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Sanjay!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=200&section=header&text=Sanjay%20Yadav&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%7C%20Robotics%20%7C%20Data%20Science&descAlignY=55&descAlign=62"/>
+</div>
 
-<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=🚀+Future+AI+%26+Robotics+Engineer;💻+Mastering+C%2B%2B+on+my+tablet;📊+BS+Data+Science+%40+IIT+Madras" alt="Animated Text" />
-</p>
-
----
-
-### 👨‍💻 About My Journey
-- 🎓 **Undergrad:** ITAIAR @ MITS Gwalior | BS Data Science @ IIT Madras
-- 🔭 **Currently Building:** My logic and C++ foundation through daily practice.
-- 🌱 **Exploring:** Data Science, Artificial Intelligence, and Robotics.
-- ⚡ **Fun Fact:** Maintaining my daily GitHub coding streak straight from my mobile device!
-- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/sanjay-y-59a7b9434?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
----
-
-### 🛠️ Tech Stack & Tools
-<!-- Beautiful, modern rounded icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,git,github,bash,linux,md&theme=dark" />
+  <a href="https://github.com/Sanjay-cloud-sudo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Initializing+AI+Protocols...;Accessing+MITS+Gwalior+Mainframe...;Downloading+IIT+Madras+Data+Science+Modules...;Compiling+C%2B%2B+on+Mobile+Terminal...;System+Ready." alt="Typing Animation" />
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-cloud-sudo&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+</div>
+<br>
 
-### 🏆 GitHub Trophies
-<!-- Colorful trophies that unlock as you upload more code -->
+### 📟 Terminal Log: `whoami.cpp`
+
+```cpp
+#include <iostream>
+using namespace std;
+
+struct Developer {
+    string name = "Sanjay Yadav";
+    string location = "Gwalior, MP, India";
+    string education[2] = {"ITAIAR Undergrad @ MITS", "BS Data Science @ IIT Madras"};
+    string current_mission = "Maintaining a daily C++ coding streak strictly via mobile terminal";
+};
+
+int main() {
+    Developer sanjay;
+    cout << "Deploying future AI & Robotics Engineer..." << endl;
+    cout << "Status: Ready to collaborate on hackathons & open source." << endl;
+    return 0;
+}
+```
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay-cloud-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <a href="https://www.linkedin.com/in/sanjay-y-59a7b9434?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
----
-
-### 📊 Dynamic Stats
-<!-- Neon colorful stat cards -->
+### ⚙️ Core Architecture
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-cloud-sudo&show_icons=true&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-cloud-sudo&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-cloud-sudo&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,git,github,bash,linux,python,vscode,md&theme=dark&perline=9" />
+  </a>
 </p>
 
-<!-- Waving Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+### 📡 Live Telemetry
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-cloud-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-cloud-sudo&theme=tokyonight&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="48%" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=100&section=footer" width="100%"/>
+</div>
