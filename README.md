@@ -3,14 +3,12 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Sanjay-cloud-sudo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Initializing+AI+Protocols...;Accessing+MITS+Gwalior+Mainframe...;Downloading+IIT+Madras+Data+Science+Modules...;Compiling+C%2B%2B+on+Mobile+Terminal...;System+Ready." alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Initializing+AI+Protocols...;Accessing+MITS+Gwalior+Mainframe...;Downloading+IIT+Madras+Data+Science+Modules...;Compiling+C%2B%2B+on+Mobile+Terminal...;System+Ready." alt="Typing Animation" />
 </p>
 
-<!-- Fixed Contrast: Stealth dark mode view counter -->
+<!-- Perfectly contrasted view counter -->
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Sanjay-cloud-sudo.Sanjay-cloud-sudo&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%23222222&style=for-the-badge" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Sanjay-cloud-sudo.Sanjay-cloud-sudo&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%2300599C&style=for-the-badge" alt="Profile Views" />
 </div>
 <br>
 
@@ -35,10 +33,10 @@ int main() {
 }
 ```
 
-<!-- Fixed Contrast: Black background, white text, glowing cyan logo -->
+<!-- Fixed LinkedIn Badge -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-y-59a7b9434?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
 </p>
 
