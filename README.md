@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=200&section=header&text=Sanjay%20Yadav&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20%7C%20Robotics%20%7C%20Data%20Science&descAlignY=55&descAlign=62"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Initializing+AI+Protocols...;Accessing+MITS+Gwalior+Mainframe...;Downloading+IIT+Madras+Data+Science+Modules...;Compiling+C%2B%2B+on+Mobile+Terminal...;System+Ready." alt="Typing Animation" />
-</div>
+<h3 align="center"> 🚀 Initializing AI Protocols... | System Ready. </h3>
+<p align="center"> <i> Maintaining a daily C++ coding streak strictly via mobile terminal </i> </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanjay-cloud-sudo-main&label=PROFILE+VIEWS&color=00599c&style=for-the-badge" alt="Profile Views" />
@@ -33,16 +32,16 @@ int main() {
 ```
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/sanjay-y-59a7b9434)
-
+  <a href="https://www.linkedin.com/in/sanjay-y-59a7b9434">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+  </a>
 </div>
 
 ### ⚙️ Core Architecture
 <div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,c,git,github,bash,linux,python,vscode,md&theme=dark&perline=9)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,git,github,bash,linux,python,vscode,md&theme=dark&perline=9" />
+  </a>
 </div>
 
 ### 📡 Live Telemetry
