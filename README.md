@@ -8,8 +8,11 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-cloud-sudo-main&label=PROFILE+VIEWS&color=00599c&style=for-the-badge" alt="Profile Views" />
+
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=Sanjay-cloud-sudo.Profile&label=PROFILE%20VIEWS&labelColor=%23000000&countColor=%2300599c&style=for-the-badge)
+
 </div>
+
 <br>
 
 ### 📟 Terminal Log: `whoami.cpp`
