@@ -36,7 +36,7 @@ int main() {
 <!-- Hardcoded your exact LinkedIn link to prevent GitHub from breaking the image -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-y-59a7b9434">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=006400" alt="LinkedIn" />
   </a>
 </p>
 
