@@ -36,7 +36,7 @@ int main() {
 <!-- Brand new URL to completely bypass GitHub's broken image cache -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-y-59a7b9434">
-    <img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
